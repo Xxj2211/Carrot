@@ -1,0 +1,13 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+p {
+    font-size: 24px;
+}
+
+#visibility {
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
